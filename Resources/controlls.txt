@@ -1,0 +1,8 @@
+																									Controls
+
+	Movement - WASD
+
+	Pick Up - Left Click
+
+	Interactions - E 
+

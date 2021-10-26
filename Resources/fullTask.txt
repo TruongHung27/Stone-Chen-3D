@@ -1,0 +1,17 @@
+1. Safety is job one. So, put your gloves on!
+2. Label all your test tube. 
+3. Next, we will need to add solutions to the test tubes. Select which pipette to use based on the volume you need to transfer.
+4. After selecting the pipette, withdraw the liquid from the flask.
+5. Transfer the liquid in the following sequence. ( NaCl -> Dye -> Protein )
+6. Then, we will start to measure absorbance of each sample. We first need to adjust the spectometer to the correct wavelength. (595nm)
+7. Put in Tube #1 (which has no protein) as blank and zero the reading by clicking on the button.
+8. Next, measure absorbance of each sample by placing the test tube in the spectometer.
+9. Record the absorbance of each sample in the table.
+10. Calculate the protein in each tube in order to plot the standard curve.
+11. Open graph through the pause menu and plot the graph.
+12. Now we have the standard curve, let's measure protein concentration of unknown samples.
+13. Repeats Step 1-9 but we only have two test tubes here: tube 1 for blank, and tube 2 for unknown.
+14. After measuring the absorbance, the absorbance should show up as a red dot on the standard curve. Calculate unkown protein concentration using standard curve equation.
+15. Calculate stock concentration of the unknown sample using C1V1 = C2V2.
+16. You are done!
+
